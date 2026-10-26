@@ -1,0 +1,2 @@
+# offline_nlp_ai_assistant_NOVA_UI
+offline_nlp_ai_assistant_NOVA_UI_fixed
